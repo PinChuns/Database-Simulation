@@ -33,6 +33,7 @@ cd dbserver-assignment/cw-db
 ./mvnw exec:java@server
 ```
 The server listens on localhost:8888
+
 3. Run the client for testing
 ```bash
 ./mvnw exec:java@client
