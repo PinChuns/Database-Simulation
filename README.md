@@ -23,18 +23,18 @@ This project is a simplified relational database server implemented in Java. It 
 ---
 
 ### Installation & Usage
-1. Clone the repository
+#### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/dbserver-assignment.git
 cd dbserver-assignment/cw-db
 ```
-2. Compile and run the server
+#### 2. Compile and run the server
 ```bash
 ./mvnw exec:java@server
 ```
 The server listens on localhost:8888
 
-3. Run the client for testing
+#### 3. Run the client for testing
 ```bash
 ./mvnw exec:java@client
 ```
