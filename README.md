@@ -1,6 +1,6 @@
 ## Database Management System in Java
 
----
+
 
 ### Project Overview
 This project is a simplified relational database server implemented in Java. It processes a subset of SQL-like commands and supports persistent storage, querying, updating, and deleting records. The work emphasizes persistence, command parsing, error handling, robustness, and code quality.
